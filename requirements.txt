@@ -1,0 +1,13 @@
+# Install a compatible PyTorch build separately:
+# https://pytorch.org/get-started/locally/
+torch>=2.3
+torch-geometric>=2.5
+rdkit>=2024.3
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+tqdm>=4.66
+pyyaml>=6.0
+pytest>=8.0
